@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  xcoord: 9.99
+  ycoord: 9.99
+  time: MyString
+
+two:
+  xcoord: 9.99
+  ycoord: 9.99
+  time: MyString
